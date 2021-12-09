@@ -12,7 +12,7 @@ const Partners = () => {
         },
         {
             image: "/images/polygon.png",
-            url: "https://www.polygon.com/"
+            url: "https://www.polygon.technology/"
         },
         {
             image: "/images/dfinity.png",
