@@ -552,11 +552,11 @@ const Hero = () => {
                         <div className="button_group animate_UI">
                             <Button
                                 style={{ cursor: "pointer" }}
-                                href="https://app.icp-20.com/swap"
+                                href="https://dapp.icp-20.com/farm"
                                 disabled={false}
                                 size={2.2}
                                 className="red_hero_btn f-size-p3 btn btn_gradient">
-                                Join IDO
+                                Farm with LICP
                             </Button>
                             <Button
                                 size={2.2}
