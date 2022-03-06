@@ -8,11 +8,11 @@ const Footer = () => {
         },
         {
             image: "/images/discord.png",
-            url: "https://discord.com/invite/3F8CYyPpHq"
+            url: "https://discord.gg/NaahyDM2hE"
         },
         {
             image: "/images/twitter.png",
-            url: "https://twitter.com/LiquidICP"
+            url: "https://twitter.com/IC_LABS_"
         },
         {
             image: "/svg/github.svg",
